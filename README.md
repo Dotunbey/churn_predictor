@@ -6,7 +6,7 @@ built with python, Fastapi and docker
 This project uses machine learning to predict customer churn based on historical customer behavior and profile data. The goal is to help businesses identify customers likely to leave, enabling timely retention strategies.
 
 📁 Project Structure
-- churn_predictor.ipynb – Main notebook for model training and evaluation  
+- train_churn_model.ipynb – Main notebook for model training and evaluation  
 - data/ – Raw and processed datasets  
 - model_C=1.0.bin – Saved trained models  
 - train.py – Helper functions for preprocessing, feature engineering  
